@@ -2,11 +2,41 @@
   {
     "id": "1",
     "name": "Mèo dễ thương",
-    "assetPath": "assets/templates/cat.svg"
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat.svg"
   },
   {
     "id": "2",
     "name": "Ngôi nhà",
-    "assetPath": "assets/templates/house.svg"
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/house.svg"
+  },
+  {
+    "id": "3",
+    "name": "Mèo chơi len",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat.png"
+  },
+  {
+    "id": "4",
+    "name": "Mèo sang trọng",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat-v.png"
+  },
+  {
+    "id": "5",
+    "name": "Chú ngựa",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/horse.png"
+  },
+  {
+    "id": "6",
+    "name": "Con bướm",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/butterfly.png"
+  },
+  {
+    "id": "7",
+    "name": "Cô bé",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/girl.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Bánh kem",
+    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cake.jpg"
   }
 ]
