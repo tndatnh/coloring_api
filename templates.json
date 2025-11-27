@@ -2,11 +2,11 @@
   {
     "id": "1",
     "name": "Mèo dễ thương",
-    "assetPath": "assets/templates/cat.png"
+    "assetPath": "assets/templates/cat.svg"
   },
   {
     "id": "2",
     "name": "Ngôi nhà",
-    "assetPath": "assets/templates/house.png"
+    "assetPath": "assets/templates/house.svg"
   }
 ]
