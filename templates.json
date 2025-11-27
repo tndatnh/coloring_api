@@ -2,41 +2,41 @@
   {
     "id": "1",
     "name": "Mèo dễ thương",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat.svg"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/cat_qrzdhf.svg"
   },
   {
     "id": "2",
     "name": "Ngôi nhà",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/house.svg"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/house_jb80x1.svg"
   },
   {
     "id": "3",
     "name": "Mèo chơi len",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat.png"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/cat_knvzhg.png"
   },
   {
     "id": "4",
     "name": "Mèo sang trọng",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cat-v.png"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273048/cat-v_hpfmwv.png"
   },
   {
     "id": "5",
     "name": "Chú ngựa",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/horse.png"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/horse_ilqnoi.png"
   },
   {
     "id": "6",
     "name": "Con bướm",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/butterfly.png"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273046/butterfly_kzvz4d.png"
   },
   {
     "id": "7",
     "name": "Cô bé",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/girl.jpg"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/girl_atyyt3.jpg"
   },
   {
     "id": "8",
     "name": "Bánh kem",
-    "assetPath": "https://raw.githubusercontent.com/tndatnh/coloring_api/main/cake.jpg"
+    "assetPath": "https://res.cloudinary.com/dwf4tgesq/image/upload/v1764273047/cake_dqu2ec.jpg"
   }
 ]
