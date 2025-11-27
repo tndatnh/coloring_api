@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Mèo dễ thương",
+    "assetPath": "assets/templates/cat.png"
+  },
+  {
+    "id": "2",
+    "name": "Ngôi nhà",
+    "assetPath": "assets/templates/house.png"
+  }
+]
